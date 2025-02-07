@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">appalaktiki</string>
+    <string name="english" translatable="false">ENGLISH</string>
+    <string name="french" translatable="false">FRENCH</string>
+    <string name="greek" translatable="false">GREEK</string>
+    <string name="speak" translatable="false">SPEAK</string>
+    <string name="istories">STORIES</string>
+    <string name="statistika">STATS</string>
+    <string name="story1" translatable="false">The Cloud Who Forgot How to Rain</string>
+    <string name="story2" translatable="false">The Tiny Dragon Who Could Only Whisper</string>
+    <string name="story3" translatable="false"> The Secret Library Under the Sea</string>
+    <string name="story4" translatable="false">The Fox Who Painted the Moon</string>
+    <string name="story5" translatable="false">The Runaway Bubble</string>
+    <string name="stories" translatable="false">STORIES</string>
+    <string name="sum" translatable="false">TIMES LISTENED</string>
+    <string name="fav" translatable="false">FAVOURITE STORIES</string>
+    <string name="author" translatable="false">AUTHOR</string>
+
+
+</resources>

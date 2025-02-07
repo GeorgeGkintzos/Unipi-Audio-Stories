@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587951166191",
+    "project_id": "appalaktiki-eb13f",
+    "storage_bucket": "appalaktiki-eb13f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587951166191:android:f673616df395d9e461811a",
+        "android_client_info": {
+          "package_name": "com.example.appalaktiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcVUgjkZsAz0-gyF8pbLPj00K0Mbbv53Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
